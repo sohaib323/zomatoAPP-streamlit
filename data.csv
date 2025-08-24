@@ -1,0 +1,11 @@
+OrderID,Product,Category,Price,Quantity,OrderDate,City
+1001,Pizza,Fast Food,250,2,2023-08-01 13:20,Delhi
+1002,Burger,Fast Food,150,1,2023-08-01 14:05,Mumbai
+1003,Juice,Drinks,80,3,2023-08-01 09:10,Bangalore
+1004,Pasta,Italian,200,1,2023-08-02 12:00,Delhi
+1005,Sandwich,Snacks,120,2,2023-08-02 16:30,Chennai
+1006,Coffee,Drinks,100,2,2023-08-02 08:45,Mumbai
+1007,Noodles,Chinese,180,1,2023-08-03 13:10,Delhi
+1008,Fries,Snacks,80,3,2023-08-03 19:00,Bangalore
+1009,Salad,Healthy,150,1,2023-08-03 10:00,Delhi
+1010,Biryani,Indian,300,2,2023-08-03 21:30,Hyderabad
